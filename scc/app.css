@@ -1,0 +1,11 @@
+p{
+    color :red;/*rgp,hex(0 1 2 3 4 5 6 7 8 9 A B C D E F) name */
+    text-transform:;/*in thuong,in hoa,*/
+    line-height:1.5;/*
+}/*color là màu*/
+h1 {
+    font-size: 25 xp;
+    font-family: 'roboto',sans-serif;
+    font-weight: 500;
+    text-decoration:underline;/* gach chan : over,under,none*/
+}
